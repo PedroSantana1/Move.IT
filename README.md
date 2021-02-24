@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src="https://github.com/guilhermecapitao/nlw-04-reactjs-moveit/blob/dae06f80592a6a63fa455f7bf87f386e5119ab5a/.github/moveit.svg" />
 </h1>
 
 <p align="center">
