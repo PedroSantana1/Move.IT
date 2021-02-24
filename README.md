@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
+  <img alt="Moveit" src="https://github.com/guilhermecapitao/nlw-04-reactjs-moveit/blob/dae06f80592a6a63fa455f7bf87f386e5119ab5a/.github/icon.svg" width="120px">
 </p>
 
 ## 🚀 Tecnologias
